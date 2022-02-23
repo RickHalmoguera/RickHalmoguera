@@ -1,14 +1,7 @@
 
-<img align="left" height="200px" width="200px" alt="me running" src="/img/running.gif"/>
-### Hi there 👋
-const Iam = {
-    name: 'Ricardo Halmoguera',
-    role: 'Frontend Dev',
-    links: {
-        Linkedin:'www.linkedin.com/in/rhalmoguera',
-        Resume: '',
-    }
-}
+<img align="left" height="20%" width="20%" alt="me running" src="/img/running.gif"/>
+Hi there 👋
+<img align="center" height="200px" width="80%" alt="me running" src="/img/carbon.png"/>
 
 <h3>Programming Languages</h3>
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
