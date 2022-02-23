@@ -1,5 +1,5 @@
 <img align="left"  width="20%" alt="me running" src="/img/running.gif"/>
-<img  align="right"width="100%" alt="me running" src="/img/carbon.png"/>
+<img  align="right"width="75%" alt="me running" src="/img/carbon.png"/>
 
 
 
