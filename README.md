@@ -1,9 +1,11 @@
 <img align="left"  width="20%" alt="me running" src="/img/running.gif"/>
 <img  align="right"width="75%" alt="me running" src="/img/carbon.png"/>
-
-
-
-<p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h3>Programming Languages</h3>
 <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 Here are some ideas to get you started:
