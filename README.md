@@ -1,7 +1,17 @@
-### Hi there 👋
 
-<!--
-**RickHalmoguera/RickHalmoguera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" height="94px" width="94px" alt="me running" src="/img/running.gif"/>]
+### Hi there 👋
+const Iam = {
+    name: 'Ricardo Halmoguera',
+    role: 'Frontend Dev',
+    links: {
+        Linkedin:'www.linkedin.com/in/rhalmoguera',
+        Resume: '',
+    }
+}
+
+<h3>Programming Languages</h3>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 
 Here are some ideas to get you started:
 
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
