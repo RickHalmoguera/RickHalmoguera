@@ -1,18 +1,9 @@
-
-![This is an image](/img/running.gif)
+<img align="left" height="20%" width="20%" alt="me running" src="/img/running.gif"/>
 Hi there 👋
-const Iam = {
-    name: 'Ricardo Halmoguera',
-    role: 'Frontend Dev',
-    links: {
-        Linkedin:'www.linkedin.com/in/rhalmoguera',
-        Portfolio: 'In Production'
-    }
-};
-<p>
+<img  width="80%" alt="me running" src="/img/carbon.png"/>
 
 <h3>Programming Languages</h3>
-![This is an image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
