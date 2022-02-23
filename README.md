@@ -1,11 +1,18 @@
 
-<img align="left" height="20%" width="20%" alt="me running" src="/img/running.gif"/>
+![This is an image](/img/running.gif)
 Hi there 👋
-<img align="center" height="200px" width="80%" alt="me running" src="/img/carbon.png"/>
+const Iam = {
+    name: 'Ricardo Halmoguera',
+    role: 'Frontend Dev',
+    links: {
+        Linkedin:'www.linkedin.com/in/rhalmoguera',
+        Portfolio: 'In Production'
+    }
+};
+<p>
 
 <h3>Programming Languages</h3>
-<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></p>
-
+![This is an image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
