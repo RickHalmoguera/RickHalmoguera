@@ -1,4 +1,4 @@
-<img align="left"  width="40%" alt="me running" src="/img/running.gif"/>
+<img align="left"  width="30%" alt="me running" src="/img/running.gif"/>
 <img  align="right"width="55%" alt="me running" src="/img/carbon.png"/>
 
 <h3>Programming Languages</h3>
