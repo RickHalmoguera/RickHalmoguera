@@ -1,5 +1,5 @@
 
-[<img align="left" height="94px" width="94px" alt="me running" src="/img/running.gif"/>]
+<img align="left" height="200px" width="200px" alt="me running" src="/img/running.gif"/>
 ### Hi there 👋
 const Iam = {
     name: 'Ricardo Halmoguera',
