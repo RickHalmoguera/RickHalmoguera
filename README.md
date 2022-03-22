@@ -4,6 +4,7 @@
 <h3>About me</h3>
 Hello World! My name is Ricardo Halmoguera and my adventure with programming began during the pandemic... when we were all locked up. I was looking to make a big change in my profesional life, so i started to tried everything, some Unreal Engine,Pixel Art,Blender and AWS. But after a while, I found Scrimba's Frontend Path and it was like i hitted the Jackpot! 
 
+Here u can se my portfolio! => <a href="rickhalmoguera.github.io/portfolio/">Ricardo´s Portfolio</a>
 
 <h3>🌱 I’m currently learning ...</h3>
 <p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></p>
