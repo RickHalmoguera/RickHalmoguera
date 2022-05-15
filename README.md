@@ -1,5 +1,5 @@
 <table>
-<td><img float="left" width="30%"  alt="me running" src="/img/codingme.png"/></td>
+<td><img float="left" width="100%"  alt="me running" src="/img/codingme.png"/></td>
 
 
 <td><h1 >Hola! 👋,Soy Ricardo</h1>
