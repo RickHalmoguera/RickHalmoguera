@@ -5,7 +5,7 @@
 <h3 align="center">Desarrollador Frontend en Oviedo, España</h3>
 <p>Tras tres años de trabajar en varios sectores, decidí volver al área de mi primera carrera universitaria. Actualmente me estoy preparando como Desarrollador FrontEnd, donde busco dominar las tecnologías de HTML, CSS, Javascript, actualmente me estoy formando en React y aunque no he escogido un Framework para CSS, me llama mucho la atención Tailwind CSS.</p>
 <h3 align="left">Otras áreas de interes:</h3>
-<p align="left"> Me llama muchisimo la atención el desarrollo de videojuegos, donde he estado investigando un poco sobre <a href="https://phaser.io/" target="blank"><img align="center" src="/img/phaserJs.png" alt="phaserJs"  width="200" /></a>
+<a href="https://phaser.io/" target="blank"><img align="center" src="/img/phaserJs.png" alt="phaserJs"  width="200" /></a>
 </p>
 
 <h3 align="left">Conecta conmigo:</h3>
