@@ -1,4 +1,4 @@
-<img align="center"  width="30%" alt="me running" src="/img/running.gif"/>
+<img align="center"   alt="me running" src="/img/running.gif"/>
 
 
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
