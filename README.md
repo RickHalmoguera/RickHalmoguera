@@ -1,4 +1,4 @@
-<img align="center" width="30%"  alt="me running" src="/img/codingme.png"/>
+<img float="left" width="30%"  alt="me running" src="/img/codingme.png"/>
 
 
 <h1 float="right">Hola! 👋,Soy Ricardo</h1>
