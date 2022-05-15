@@ -1,10 +1,9 @@
-<table>
-<td><img float="left" width="100%"  alt="me running" src="/img/codingme.png"/></td>
+|<img float="left" width="100%"  alt="me running" src="/img/codingme.png"/>|
 
 
-<td><h1 >Hola! 👋,Soy Ricardo</h1>
+<h1 >Hola! 👋,Soy Ricardo</h1>
 <h3 >Desarrollador Frontend en Oviedo, España</h3>
-<p>Tras tres años de trabajar en varios sectores, decidí volver al área de mi primera carrera universitaria. Actualmente me estoy preparando como Desarrollador FrontEnd, donde busco dominar las tecnologías de HTML, CSS y Javascript. Actualmente me estoy formando en React y aunque no he escogido un Framework para CSS, me llama mucho la atención Tailwind CSS.</p></td></table>
+<p>Tras tres años de trabajar en varios sectores, decidí volver al área de mi primera carrera universitaria. Actualmente me estoy preparando como Desarrollador FrontEnd, donde busco dominar las tecnologías de HTML, CSS y Javascript. Actualmente me estoy formando en React y aunque no he escogido un Framework para CSS, me llama mucho la atención Tailwind CSS.</p>|
 <h3 align="left">Otras áreas de interes:</h3>
 <a href="https://phaser.io/" target="blank"><img align="center" src="/img/phaserJs.png" alt="phaserJs"  width="200" /></a>
 </p>
