@@ -4,7 +4,11 @@
 <h1 align="center">Hola! 👋,Soy Ricardo</h1>
 <h3 align="center">Desarrollador Frontend en Oviedo, España</h3>
 <p>Tras tres años de trabajar en varios sectores, decidí volver al área de mi primera carrera universitaria. Actualmente me estoy preparando como Desarrollador FrontEnd, donde busco dominar las tecnologías de HTML, CSS, Javascript, actualmente me estoy formando en React y aunque no he escogido un Framework para CSS, me llama mucho la atención Tailwind CSS.</p>
+<h3 align="left">Otras áreas de interes:</h3>
+<p align="left"> Me llama muchisimo la atención el desarrollo de videojuegos, donde he estado investigando un poco sobre  </p>
 
+
+https://img2.freepng.es/20180720/ztz/kisspng-phaser-html-game-javascript-typescript-pron-5b51bc5d571d24.8849203215320832933568.jpg
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/rhalmoguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhalmoguera" height="30" width="40" /></a>
