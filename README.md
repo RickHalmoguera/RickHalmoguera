@@ -1,21 +1,16 @@
 <img align="left"  width="30%" alt="me running" src="/img/running.gif"/>
-<img width="66%" alt="me running" src="/img/carbon.png"/>
-
-<h3>About me</h3>
-Hello World! My name is Ricardo Halmoguera and my adventure with programming began during the pandemic... when we were all locked up. I was looking to make a big change in my profesional life, so i started to tried everything, some Unreal Engine,Pixel Art,Blender and AWS. But after a while, I found Scrimba's Frontend Path and it was like i hitted the Jackpot! 
 
 
+<h1 align="center">Hi 👋, I'm Ricardo</h1>
+<h3 align="center">A passionate frontend developer from Spain</h3>
 
-<h3>🌱 I’m currently learning ...</h3>
-<p><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rhalmoguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhalmoguera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rhalmoguera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhalmoguera" height="30" width="40" /></a>
+</p>
 
-<h3>Languages and tools I used:</h3>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- </p>
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
