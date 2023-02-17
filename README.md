@@ -4,12 +4,14 @@
  <p align="center"><img width="30%" alt="rick coding" src="./images/codingme.png"/></p>
 <h1 align="center">Hi 👋, I'm Ricardo!FrontEnd Developer Jr.</h1>
 </div>
+<div>
 <h2 align="center">About Me </h2> 
-<img width="20%" align="right" alt="rick talking" src="./images/TALKING ANI.gif"/>
+<img width="20%" align="left" alt="rick talking" src="./images/TALKING ANI.gif"/>
+</div>
 
-With the intention of returning to what I am most passionate about, and after some years of experience in other sectors, I have once again focused on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS and JavaScript, as well as React.
+<p>With the intention of returning to what I am most passionate about, and after some years of experience in other sectors, I have once again focused on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS and JavaScript, as well as React.</p>
 
-This year 2023 I have dedicated myself to making a complete remake of my Github and portfolio in order to show you my knowledge and skills.
+<p>This year 2023 I have dedicated myself to making a complete remake of my Github and portfolio in order to show you my knowledge and skills.</p>
 
 
 - 🌱 I’m currently learning **React**
