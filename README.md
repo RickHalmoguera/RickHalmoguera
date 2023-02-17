@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ricardo!</h1>
-<h3 align="justify">With the intention of returning to what I am most passionate about, and after some years of experience in other sectors, I have once again focused on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS and JavaScript, as well as React.</h3>
-  
-<h3 align="justify">This year 2023 I have dedicated myself to making a complete remake of my Github and portfolio in order to show you my knowledge and skills.</h3>
+With the intention of returning to what I am most passionate about, and after some years of experience in other sectors, I have once again focused on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS and JavaScript, as well as React.
+This year 2023 I have dedicated myself to making a complete remake of my Github and portfolio in order to show you my knowledge and skills.
+
+<img width="20%" align="right" alt="rick talking" src="./images/TALKING_ANI.gif" />
 
 - 🌱 I’m currently learning **React**
 
