@@ -1,5 +1,5 @@
 
-<img align="center" alt="rick coding" src="./images/codingme.png"/>
+<img width="30%" align="center" alt="rick coding" src="./images/codingme.png"/>
 <h1 align="center"> Hi 👋, I'm Ricardo! <br>FrontEnd Developer Jr.</h1>
 <img width="20%" align="right" alt="rick talking" src="./images/TALKING ANI.gif"/>
 With the intention of returning to what I am most passionate about, and after some years of experience in other sectors, I have once again focused on my training and growth as a FrontEnd Developer. My goal is to master the technologies of HTML, CSS and JavaScript, as well as React.
