@@ -1,7 +1,14 @@
 
 <h1 align="center"> STILL UNDER CONSTRUCTION!.</h1>
-<img width="30%" align="left" alt="rick coding" src="./images/codingme.png"/>
-
+<img width="50%" align="left" alt="rick coding" src="./images/codingme.png"/>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h1 align="right"> Hi 👋, I'm Ricardo! <br>FrontEnd Developer Jr.</h1>
 <br>
 <br>
