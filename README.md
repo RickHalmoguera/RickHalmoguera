@@ -1,6 +1,6 @@
 
 <h1 align="center"> STILL UNDER CONSTRUCTION!.</h1>
-<img width="50%" align="left" alt="rick coding" src="./images/codingme.png"/>
+<img width="30%" align="left" alt="rick coding" src="./images/codingme.png"/>
 <br>
 <br>
 <br>
