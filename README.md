@@ -1,5 +1,3 @@
-
-<h1 align="center"> STILL UNDER CONSTRUCTION!.</h1>
 <p align="center"><img width="30%" alt="rick coding" src="./images/codingme.png"/></p>
 <h1 align="center">Hi 👋, I'm Ricardo!FrontEnd Developer Jr.</h1>
 <br>
