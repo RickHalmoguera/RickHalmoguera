@@ -3,14 +3,6 @@
 
 <h1 align="left">About Me </h1> 
  <p align="center"><img width="100%"  alt="rick talking" src="./images/TALKING GIT.gif"/></p>
-<br>
-<h1 align="left">More info</h1>
-
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, SCSS, VanillaJS**
-
-- 📫 How to reach me **rhalmoguera@gmail.com**
 
 <br>
 <h1 align="left">Languages and Tools:</h1>
