@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" alt="rick coding" src="./images/GITHUB INTR.gif"/></p>
+<p align="center"><img width="100%" alt="rick coding" src="./images/GITHUB INTRo.gif"/></p>
 <br>
 
 <h1 align="left">About Me </h1> 
